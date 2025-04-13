@@ -1,0 +1,1 @@
+SELECT * FROM world_layoffs.top_industry_layoffs;

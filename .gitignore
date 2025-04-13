@@ -1,0 +1,28 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQL temporary files (if any)
+*.sql~
+*.log
+
+# Power BI temporary/backup files (if generated)
+*.tmp
+*.bak
+
+# Python cache files (if you use Python scripts for additional analysis)
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories (if you use Python)
+venv/
+ENV/
+env/
+
+# IDE and editor configuration files
+.idea/
+.vscode/
+
+# Optional: Ignore large CSV data files if you do not wish to track them
+# data/*.csv
