@@ -1,5 +1,4 @@
 # SQL - Power BI Dashboard
-
 ![Project Banner](images/dashboard-image.png)
 
 Welcome to the **SQL - Power BI Dashboard** project. This repository contains a comprehensive Power BI solution that integrates SQL queries and data analysis for visualizing global layoffs.
